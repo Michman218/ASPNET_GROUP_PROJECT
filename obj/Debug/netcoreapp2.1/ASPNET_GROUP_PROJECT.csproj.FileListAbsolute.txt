@@ -26,3 +26,15 @@ C:\Users\1831257\source\repos\ASPNET_GROUP_PROJECT\bin\Debug\netcoreapp2.1\ASPNE
 C:\Users\1831257\source\repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.Views.pdb
 C:\Users\1831257\source\repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.genruntimeconfig.cache
 C:\Users\1831257\source\repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.csproj.CopyComplete
+C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.csproj.AssemblyReference.cache
+C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.AssemblyInfo.cs
+C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.TagHelpers.input.cache
+C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.TagHelpers.output.cache
+C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.dll
+C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.pdb
+C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.RazorCoreGenerate.cache
