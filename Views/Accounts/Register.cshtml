@@ -4,25 +4,25 @@
     Layout = "_Layout";
 }
 
-<fieldset>
+<fieldset class="account">
     <h1>New User Registration</h1>
     <br />
 
     <form role="form" asp-action="Register">
         <div asp-validation-summary="All" class="input-validation-error"></div>
 
-        <div class="">
+        <div class="form-group">
             <label asp-for="Username"></label>
             <input type="text" asp-for="Username" class="form-control" />
             <span asp-validation-for="Username" class="field-validation-error"></span>
         </div>
 
-        <div class="">
+        <div class="form-group">
             <label asp-for="Password"></label>
             <input type="password" asp-for="Password" class="form-control" />
             <span asp-validation-for="Password" class="field-validation-error"></span>
         </div>
-        <div class="">
+        <div class="form-group">
             <label asp-for="ConfirmPassword"></label>
             <input type="password" asp-for="ConfirmPassword" class="form-control" />
             <span asp-validation-for="ConfirmPassword" class="field-validation-error"></span>
