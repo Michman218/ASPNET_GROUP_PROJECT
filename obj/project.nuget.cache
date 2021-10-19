@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9LjaeAqsEwmU0z9KksF+m2v5oAgwObzSIrsofSfLs/NJmLXn8r5NqnqEMMWhQHxZmOfcO/hhsYXxHWd07F34sA==",
+  "dgSpecHash": "4TVg1JHTDQoJbJp/lIf0g9YQnExAy3XFa/sjAEEJqmqqZKLI29f5BWjoUdtEcCeM1CkvEYDHHgDyEsxosBNVgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1826083\\Source\\Repos\\ASPNET_GROUP_PROJECT\\ASPNET_GROUP_PROJECT.csproj",
+  "projectFilePath": "C:\\Users\\1826083\\Source\\Repos\\ASPNET_GROUP_PROJEC\\ASPNET_GROUP_PROJECT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1826083\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\1826083\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
