@@ -41,7 +41,7 @@
                         <li class="nav-item">
                             @if (User.Identity.IsAuthenticated)
                             {
-                                <form id="logout" action="@Url.Action("Logout", "Accounts")" method="POST">
+                                <form id="logout" action="@Url.Action("Logout", "Account")" method="POST">
                                     <a href="javascript: $('#logout').submit()" class="last">
                                         Logout
                                         <br /><span class="tagline">@User.Identity.Name</span>
@@ -50,7 +50,7 @@
                             }
                             else
                             {
-                                <a href="@Url.Action("Login", "Accounts")" title="log in" class="last">
+                                <a href="@Url.Action("Login", "Account")" title="log in" class="last">
                                     Login
                                 </a>
                             }

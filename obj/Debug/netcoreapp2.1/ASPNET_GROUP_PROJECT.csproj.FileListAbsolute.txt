@@ -81,8 +81,6 @@ C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNE
 C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.TagHelpers.input.cache
 C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.TagHelpers.output.cache
 C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.RazorCoreGenerate.cache
-C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Views\Accounts\Login.cshtml.g.cs
-C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Views\Accounts\Register.cshtml.g.cs
 C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Views\Course\Create.cshtml.g.cs
 C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Views\Course\Index.cshtml.g.cs
 C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Views\Course\ScheduleClass.cshtml.g.cs
@@ -98,3 +96,5 @@ C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNE
 C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.pdb
 C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.genruntimeconfig.cache
 C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.csproj.CopyComplete
+C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs

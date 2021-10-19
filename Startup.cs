@@ -23,13 +23,23 @@ namespace ASPNET_GROUP_PROJECT
             this.configuration = configuration;
         }
 
-        public IConfiguration Configuration { get; }
+        //public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //for Db - IdentityDataContext
+            services.AddDbContext<IdentityDataContext>(options =>
+            {
+                var connString = configuration.GetConnectionString("IdentityDataContext");
+                options.UseSqlServer(connString);
+            });
+
+            //identity services for log in
             services.AddIdentity<IdentityUser, IdentityRole>()
                 .AddEntityFrameworkStores<IdentityDataContext>();
+
+            
 
             services.AddMvc();
         }
@@ -53,8 +63,7 @@ namespace ASPNET_GROUP_PROJECT
 
             app.UseMvc(routes =>
             {
-                routes.MapRoute("Default",
-                    "{controller=Home}/{action=Index}/{id?}"
+                routes.MapRoute("Default", "{controller=Home}/{action=Index}/{id?}"
                     );
             });
 
