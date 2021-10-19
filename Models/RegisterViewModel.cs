@@ -13,6 +13,11 @@ namespace ASPNET_GROUP_PROJECT.Models
         public string Username { get; set; }
 
         [Required]
+        [EmailAddress, MaxLength(500)]
+        [Display(Name = "Email Address")]
+        public string EmailAddress { get; set; }
+
+        [Required]
         [DataType(DataType.Password)]
         [Display(Name = "Password")]
         public string Password { get; set; }

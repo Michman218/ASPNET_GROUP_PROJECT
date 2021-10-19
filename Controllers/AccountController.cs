@@ -76,8 +76,8 @@ namespace ASPNET_GROUP_PROJECT.Controllers
 
             var newUser = new IdentityUser
             {
-               // Email = registration.EmailAddress,
-                UserName = registration.Username, //should i have atcual username?
+                Email = registration.EmailAddress,
+                UserName = registration.Username,
             };
 
             // TODO:  Finish registering the user
