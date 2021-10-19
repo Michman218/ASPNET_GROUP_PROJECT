@@ -134,3 +134,15 @@ C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET
 C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.pdb
 C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.genruntimeconfig.cache
 C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.csproj.CopyComplete
+C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
