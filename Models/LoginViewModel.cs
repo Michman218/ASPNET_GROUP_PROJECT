@@ -19,5 +19,8 @@ namespace ASPNET_GROUP_PROJECT.Models
         [Compare("Password", ErrorMessage = "Password must match")]
         [Display(Name = "Confirm Password")]
         public string ConfirmPassword { get; set; }
+
+        [Display(Name = "Remember Me")]
+        public bool RememberMe { get; set; }
     }
 }

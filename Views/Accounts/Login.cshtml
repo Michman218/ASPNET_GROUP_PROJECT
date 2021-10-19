@@ -1,8 +1,6 @@
 ﻿@addTagHelper "*, Microsoft.AspNetCore.Mvc.TagHelpers"
 @model ASPNET_GROUP_PROJECT.Models.LoginViewModel
-@{
-    Layout = "_Layout";
-}
+
 
 <fieldset class="account">
 
@@ -12,24 +10,28 @@
     <form role="form" asp-action="Login">
         <div asp-validation-summary="All" class="input-validation-error"></div>
 
-        <div class="">
+        <div class="form-group">
             <label asp-for="Username"></label>
             <input type="text" asp-for="Username" class="form-control" />
             <span asp-validation-for="Username" class="field-validation-error"></span>
         </div>
 
-        <div class="">
+        <div class="form-group">
             <label asp-for="Password"></label>
             <input type="password" asp-for="Password" class="form-control" />
             <span asp-validation-for="Password" class="field-validation-error"></span>
         </div>
 
-        <div class="">
+        <div class="form-group">
             <label asp-for="ConfirmPassword"></label>
             <input type="password" asp-for="ConfirmPassword" class="form-control" />
             <span asp-validation-for="ConfirmPassword" class="field-validation-error"></span>
         </div>
-
+        <div class="form-group">
+            <label asp-for="RememberMe"></label>
+            <input type="checkbox" asp-for="RememberMe" />
+            <span asp-validation-for="RememberMe" class="field-validation-error"></span>
+        </div>
         <div>
             <label>&nbsp;</label>
             <button type="submit" class="btn btn-primary">Login</button>

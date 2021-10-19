@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>@ViewData["Title"] - WebApplication1</title>
+        <title>@ViewData["Title"] - Asp .Net Group Project</title>
 
         <environment include="Development">
             <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
@@ -26,13 +26,35 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a asp-page="/Index" class="navbar-brand">WebApplication1</a>
+                    <a href="@Url.Action("Index", "home")" title="Home" class="navbar-brand">Asp .Net Project</a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li><a asp-page="/Index">Home</a></li>
-                        <li><a asp-page="/About">About</a></li>
-                        <li><a asp-page="/Contact">Contact</a></li>
+                        <li class="nav-item">
+                            <a href="@Url.Action("Index", "home")" class="nav-link text-dark" title="Home">Home</a>
+                        </li>
+                 
+                        <li class="nav-item">
+                            <a href="@Url.Action("Index", "course")" class="nav-link text-dark" title="Course">Course</a> 
+                        </li>
+                        
+                        <li class="nav-item">
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <form id="logout" action="@Url.Action("Logout", "Accounts")" method="POST">
+                                    <a href="javascript: $('#logout').submit()" class="last">
+                                        Logout
+                                        <br /><span class="tagline">@User.Identity.Name</span>
+                                    </a>
+                                </form>
+                            }
+                            else
+                            {
+                                <a href="@Url.Action("Login", "Accounts")" title="log in" class="last">
+                                    Login
+                                </a>
+                            }
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -44,7 +66,7 @@
             @RenderBody()
             <hr />
             <footer>
-                <p>&copy; 2018 - WebApplication1</p>
+                <p>&copy;  @DateTime.Now.Year - Asp .Net Group Project</p>
             </footer>
         </div>
 
@@ -72,4 +94,5 @@
         @RenderSection("Scripts", required: false)
     </body>
     </html>
+
 @addTagHelper *, ASPNET_GROUP_PROJECT
