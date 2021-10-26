@@ -190,3 +190,46 @@ E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netc
 E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\ScheduleClass.cshtml.g.cs
 E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\SchedulePresentation.cshtml.g.cs
 E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\ScheduleTest.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\bin\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.deps.json
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\bin\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.runtimeconfig.json
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\bin\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.runtimeconfig.dev.json
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\bin\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.dll
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\bin\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.pdb
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\bin\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.Views.dll
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\bin\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.Views.pdb
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.csproj.AssemblyReference.cache
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.AssemblyInfo.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.TagHelpers.input.cache
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.TagHelpers.output.cache
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.RazorCoreGenerate.cache
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Course.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Create.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Index.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\ScheduleClass.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\SchedulePresentation.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\ScheduleTest.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Schedule.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.Views.pdb
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.dll
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.pdb
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.genruntimeconfig.cache
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.csproj.CopyComplete

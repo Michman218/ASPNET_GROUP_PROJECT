@@ -35,3 +35,7 @@ body {
         display: none;
     }
 }
+
+td {
+    padding: 10px;
+}
