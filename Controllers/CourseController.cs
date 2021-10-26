@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ASPNET_GROUP_PROJECT.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,12 @@ namespace ASPNET_GROUP_PROJECT.Controllers
     public class CourseController : Controller
     {
         public IActionResult Index()
+        {
+            return View();
+        }
+
+        [Route("Presentation")]
+        public IActionResult SchedulePresentation()
         {
             return View();
         }

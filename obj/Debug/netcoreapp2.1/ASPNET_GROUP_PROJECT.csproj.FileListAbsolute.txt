@@ -213,9 +213,6 @@ C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor
 C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Course.cshtml.g.cs
 C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Create.cshtml.g.cs
 C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Index.cshtml.g.cs
-C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\ScheduleClass.cshtml.g.cs
-C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\SchedulePresentation.cshtml.g.cs
-C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\ScheduleTest.cshtml.g.cs
 C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
 C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
 C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
@@ -233,3 +230,6 @@ C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNE
 C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.pdb
 C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.genruntimeconfig.cache
 C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.csproj.CopyComplete
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Class.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Presentation.cshtml.g.cs
+C:\Users\1937645\Source\Repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Test.cshtml.g.cs
