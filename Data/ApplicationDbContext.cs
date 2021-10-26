@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace aspgroupproject.Data
+namespace ASPNET_GROUP_PROJECT.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

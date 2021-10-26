@@ -4,15 +4,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace aspgroupproject.Pages
+namespace ASPNET_GROUP_PROJECT.Pages
 {
-    public class ContactModel : PageModel
+    public class CourseModel : PageModel
     {
         public string Message { get; set; }
 
         public void OnGet()
         {
-            Message = "Your contact page.";
+            Message = "This is the Course page.";
         }
     }
 }

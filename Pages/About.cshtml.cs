@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace aspgroupproject.Pages
+namespace ASPNET_GROUP_PROJECT.Pages
 {
     public class AboutModel : PageModel
     {

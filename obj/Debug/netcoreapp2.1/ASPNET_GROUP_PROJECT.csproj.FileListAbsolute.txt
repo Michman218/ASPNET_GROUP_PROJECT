@@ -146,3 +146,47 @@ C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\
 C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\1826083\Source\Repos\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\bin\Debug\netcoreapp2.1\appsettings.json
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\bin\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.deps.json
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\bin\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.runtimeconfig.json
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\bin\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.runtimeconfig.dev.json
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\bin\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.dll
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\bin\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.pdb
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\bin\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.Views.dll
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\bin\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.Views.pdb
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.csproj.AssemblyReference.cache
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.AssemblyInfoInputs.cache
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.AssemblyInfo.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.csproj.CoreCompileInputs.cache
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.RazorAssemblyInfo.cache
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.RazorAssemblyInfo.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.TagHelpers.input.cache
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.TagHelpers.output.cache
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.RazorCoreGenerate.cache
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Schedule.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.RazorTargetAssemblyInfo.cache
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.RazorTargetAssemblyInfo.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.Views.pdb
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.dll
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.pdb
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.genruntimeconfig.cache
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.csproj.CopyComplete
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Course.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Create.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Index.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\ScheduleClass.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\SchedulePresentation.cshtml.g.cs
+E:\2021\S2\Sandra\AS\AS2\Projects\new version\ASPNET_GROUP_PROJEC\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\ScheduleTest.cshtml.g.cs

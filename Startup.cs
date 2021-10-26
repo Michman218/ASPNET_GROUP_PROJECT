@@ -1,4 +1,4 @@
-using aspgroupproject.Data;
+using ASPNET_GROUP_PROJECT.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -13,7 +13,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace aspgroupproject
+namespace ASPNET_GROUP_PROJECT
 {
     public class Startup
     {

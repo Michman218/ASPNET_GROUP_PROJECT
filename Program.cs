@@ -8,7 +8,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace aspgroupproject
+namespace ASPNET_GROUP_PROJECT
 {
     public class Program
     {
