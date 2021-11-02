@@ -1,0 +1,167 @@
+body{
+    background-color: white;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+h3{
+    background-color: gray;
+    padding: 5px;
+    margin: 0px;
+}
+
+#nav {
+    padding-bottom: 30px;
+    margin-bottom: 10px;
+    background-color: #2e2e2e;
+}
+
+#nav li{
+    float: left;
+}
+
+#nav a {
+    transition-duration: 0.2s;
+    display: block;
+    padding: 15px;
+    background-color: #2e2e2e;
+    color:white;
+    text-decoration: none;
+}
+
+#nav a:hover{
+    background-color: rgb(150, 150, 150);
+    color:black;
+}
+
+#nav ul{
+    list-style: none;
+    display: inline;
+}
+
+h1{
+    margin: 0px;
+    padding: 20px;
+    color: black;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgb(47,177,255) 0%, #ffffff 100%);
+}
+
+#box{
+    display: block;
+    background-color: rgba(45,45,45,100);
+    padding: 30px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    clear: both;
+    overflow: hidden;
+}
+
+
+#boxTitle{
+    padding:10px;
+    padding-bottom: 10px;
+    padding-top: 0px;
+}
+
+a{
+    user-select: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.disable-select {
+    user-select: none;
+   -webkit-user-select: none;
+   -khtml-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+}
+
+#box a{
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(155, 155, 155);
+    color: black;
+    text-decoration: none;
+    transition-duration: 0.2s;
+}
+
+#box a:hover{
+    background-color: rgb(65, 65, 65);
+    color: white;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    font-family: inherit;
+    margin: 0;
+    transition-duration: 0.2s;
+    display: block;
+    padding: 15px;
+    background-color: #2e2e2e;
+    color:white;
+    text-decoration: none;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: rgb(150, 150, 150);
+    color:black;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.exPageLink{
+    float: right;
+    padding-bottom: 60px;
+}
+
+@media only screen and (max-width: 630px) {
+    #nav li{
+        float: none;
+    }
+}
+
+.login{
+    float: right;
+}
+
+.login ul {
+    padding-left: 0px;
+}
