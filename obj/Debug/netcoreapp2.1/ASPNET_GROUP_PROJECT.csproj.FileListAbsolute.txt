@@ -256,7 +256,6 @@ C:\Users\20349902\Source\Repos\ASPNET_GROUP_PROJECT98\obj\Debug\netcoreapp2.1\Ra
 C:\Users\20349902\Source\Repos\ASPNET_GROUP_PROJECT98\obj\Debug\netcoreapp2.1\Razor\Pages\Course.cshtml.g.cs
 C:\Users\20349902\Source\Repos\ASPNET_GROUP_PROJECT98\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Class.cshtml.g.cs
 C:\Users\20349902\Source\Repos\ASPNET_GROUP_PROJECT98\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Create.cshtml.g.cs
-C:\Users\20349902\Source\Repos\ASPNET_GROUP_PROJECT98\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Index.cshtml.g.cs
 C:\Users\20349902\Source\Repos\ASPNET_GROUP_PROJECT98\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Presentation.cshtml.g.cs
 C:\Users\20349902\Source\Repos\ASPNET_GROUP_PROJECT98\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Test.cshtml.g.cs
 C:\Users\20349902\Source\Repos\ASPNET_GROUP_PROJECT98\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
@@ -276,3 +275,4 @@ C:\Users\20349902\Source\Repos\ASPNET_GROUP_PROJECT98\obj\Debug\netcoreapp2.1\AS
 C:\Users\20349902\Source\Repos\ASPNET_GROUP_PROJECT98\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.pdb
 C:\Users\20349902\Source\Repos\ASPNET_GROUP_PROJECT98\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.genruntimeconfig.cache
 C:\Users\20349902\Source\Repos\ASPNET_GROUP_PROJECT98\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.csproj.CopyComplete
+C:\Users\20349902\source\repos\ASPNET_GROUP_PROJECT98\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\ScheduleIndex.cshtml.g.cs

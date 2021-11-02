@@ -12,7 +12,7 @@ namespace ASPNET_GROUP_PROJECT.Pages
 
         public void OnGet()
         {
-            Message = "This is the Course page.";
+            Message = "Welcome to the Course page. Here you can view all the courses you enrolled in.";
         }
     }
 }
