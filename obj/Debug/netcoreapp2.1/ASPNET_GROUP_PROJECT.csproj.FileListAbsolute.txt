@@ -27,7 +27,6 @@ C:\Users\1831257\source\repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNE
 C:\Users\1831257\source\repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.genruntimeconfig.cache
 C:\Users\1831257\source\repos\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.csproj.CopyComplete
 C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.csproj.AssemblyReference.cache
-C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.AssemblyInfoInputs.cache
 C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.AssemblyInfo.cs
 C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.csproj.CoreCompileInputs.cache

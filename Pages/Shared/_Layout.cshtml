@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="disable-select" id="titleBar">
-        <h1>ASPNET_GROUP_PROJECT - @ViewData["Title"]</h1>
+        <h1>ASPNET_PROJECT - @ViewData["Title"]</h1>
     </div>
     <nav id="nav">
         <ul>
@@ -20,11 +20,26 @@
         </ul>
         <div class="login">
             <ul>
-                <partial name="_LoginPartial"/>
+                <partial name="_LoginPartial" />
             </ul>
-            
+
         </div>
-        
+
+    </nav>
+    <nav id="nav-smalldisp">
+        <div class="dropdown">
+            <button class="dropbtn">
+                v
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a asp-page="/Index">Home</a>
+                <a asp-page="/Course">Course Info</a>
+                <a asp-page="/Courses/ScheduleIndex">Timetable</a>
+                <a asp-page="/Courses/Create">Create</a>
+                <partial name="_LoginPartial" />
+            </div>
+        </div>
     </nav>
 
     @*<partial name="_CookieConsentPartial" />*@

@@ -35,6 +35,9 @@ using ASPNET_GROUP_PROJECT.Data;
         #pragma warning disable 1998
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
+            BeginContext(121, 2, true);
+            WriteLiteral("\r\n");
+            EndContext();
         }
         #pragma warning restore 1998
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
