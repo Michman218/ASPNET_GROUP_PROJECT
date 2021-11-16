@@ -1,3 +1,8 @@
-﻿@{
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject UserManager<IdentityUser> UserManager
+
+@{
     Layout = "/Pages/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Account";
 }

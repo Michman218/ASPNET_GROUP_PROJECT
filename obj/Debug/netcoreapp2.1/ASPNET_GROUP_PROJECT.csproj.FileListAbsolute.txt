@@ -283,3 +283,4 @@ C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcorea
 C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\1931685\Source\Repos\Michman218\ASPNET_GROUP_PROJECT\obj\Debug\netcoreapp2.1\ASPNET_GROUP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
