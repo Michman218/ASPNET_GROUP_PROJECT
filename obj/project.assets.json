@@ -12639,25 +12639,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\20349902\\.nuget\\packages\\": {},
+    "C:\\Users\\1937645\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\20349902\\Source\\Repos\\ASPNET_GROUP_PROJECT98\\ASPNET_GROUP_PROJECT.csproj",
+      "projectUniqueName": "C:\\Users\\1937645\\Source\\Repos\\ASPNET_GROUP_PROJECT69\\ASPNET_GROUP_PROJECT.csproj",
       "projectName": "ASPNET_GROUP_PROJECT",
-      "projectPath": "C:\\Users\\20349902\\Source\\Repos\\ASPNET_GROUP_PROJECT98\\ASPNET_GROUP_PROJECT.csproj",
-      "packagesPath": "C:\\Users\\20349902\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\20349902\\Source\\Repos\\ASPNET_GROUP_PROJECT98\\obj\\",
+      "projectPath": "C:\\Users\\1937645\\Source\\Repos\\ASPNET_GROUP_PROJECT69\\ASPNET_GROUP_PROJECT.csproj",
+      "packagesPath": "C:\\Users\\1937645\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\1937645\\Source\\Repos\\ASPNET_GROUP_PROJECT69\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\20349902\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\1937645\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
